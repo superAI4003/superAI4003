@@ -1,4 +1,3 @@
-
 # Hi 👋
 
 👋 I'm a Senior Full-Stack Software Engineer with over 7 years of experience in building scalable, performant, and user-centric web applications. My journey began with C++, C#, Python, JavaScript, Golang and has since expanded to encompass a diverse technology stack, from the intricacies of backend development in Django, Gin, Express, Flask, FastAPI, .NET to crafting intuitive frontend interfaces with React and Vue.
@@ -37,18 +36,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TopTen1310&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TopTen1310&theme=dark&hide_border=true" width="400">
-</p>
-
 ---
+
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="R">
   </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
